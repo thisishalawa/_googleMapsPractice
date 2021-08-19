@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">_googleMapPractice</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string name="permission_needed">Permission Needed..</string>
+    <string name="location_permission_des">This permission is needed ?</string>
+
+</resources>
